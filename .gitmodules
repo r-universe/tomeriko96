@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "polyglotr"]
+	path = polyglotr
+	url = https://github.com/tomeriko96/polyglotr
+	shallow = true
+	registered = true
